@@ -1,0 +1,48 @@
+.jumbotron{
+	
+	color: white;
+    background-color:darkseagreen;
+}
+.text-center{
+	text-align:left;
+	
+}
+.jumbotron h1{
+	font-size:50px;
+	font-family:Calibri;
+	
+}
+.jumbotron p{
+	font-size:15px;
+	
+}
+.row{
+	padding-left:100px;
+	
+}
+body{
+	background-color:#E0E0E0;
+	height:500px;
+}
+.container{
+	display:block;
+	margin-top:100px;
+	
+}
+.m1{
+	background-color:#404040;
+	margin-top:150px;
+	display:block;
+	margin-right:100px;
+	
+}
+table{
+	border-spacing:10px;
+}
+td{
+	padding:10px;
+}
+.main2
+{
+	margin-bottom:none;
+}
